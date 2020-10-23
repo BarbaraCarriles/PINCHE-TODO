@@ -1,0 +1,52 @@
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe.config
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.pdb
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csprojAssemblyReference.cache
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Properties.Resources.resources
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.GenerateResource.cache
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.exe
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.pdb
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Form1.resources
+C:\Users\Farmacia\source\repos\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.FormROBO.resources
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csprojAssemblyReference.cache
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Form1.resources
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Properties.Resources.resources
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.GenerateResource.cache
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.CoreCompileInputs.cache
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.exe
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.pdb
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe.config
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.pdb
+C:\Users\abru2\Source\Repos\Tp-labo2\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.BBENEFICIODINAMICO.resources
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csprojAssemblyReference.cache
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Form1.resources
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.BBENEFICIODINAMICO.resources
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Properties.Resources.resources
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.GenerateResource.cache
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.exe
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.pdb
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe.config
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe
+C:\Users\Farmacia\Source\Repos\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.pdb
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe.config
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.pdb
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csprojAssemblyReference.cache
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Form1.resources
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.BBENEFICIODINAMICO.resources
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Properties.Resources.resources
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.GenerateResource.cache
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.CoreCompileInputs.cache
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.exe
+C:\Users\abru2\Source\Repos\EntregaLabo22\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.pdb
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe.config
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.exe
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\bin\Debug\TP LABOPROG2.pdb
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csprojAssemblyReference.cache
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Form1.resources
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.BBENEFICIODINAMICO.resources
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP_LABOPROG2.Properties.Resources.resources
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.csproj.GenerateResource.cache
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.exe
+C:\Users\Farmacia\Source\Repos\EntregaLabo2\Tp-labo2\ 30\09\TP LABOPROG2\TP LABOPROG2\obj\Debug\TP LABOPROG2.pdb
